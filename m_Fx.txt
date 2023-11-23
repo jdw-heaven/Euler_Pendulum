@@ -1,0 +1,206 @@
+when alpha is 0.00000PI, Fx is -0.00000117.
+when alpha is 0.00000PI, Fy is -0.00006978.
+when alpha is 0.00000PI, Fz is -0.00010976.
+
+when alpha is 0.01000PI, Fx is -0.00001274.
+when alpha is 0.01000PI, Fy is -0.00006600.
+when alpha is 0.01000PI, Fz is -0.00010942.
+
+when alpha is 0.02000PI, Fx is -0.00001347.
+when alpha is 0.02000PI, Fy is -0.00006236.
+when alpha is 0.02000PI, Fz is -0.00010936.
+
+when alpha is 0.03000PI, Fx is -0.00010211.
+when alpha is 0.03000PI, Fy is -0.00005884.
+when alpha is 0.03000PI, Fz is -0.00010959.
+
+when alpha is 0.04000PI, Fx is -0.00001123.
+when alpha is 0.04000PI, Fy is -0.00005543.
+when alpha is 0.04000PI, Fz is -0.00011008.
+
+when alpha is 0.05000PI, Fx is -0.00001218.
+when alpha is 0.05000PI, Fy is -0.00005151.
+when alpha is 0.05000PI, Fz is -0.00011086.
+
+when alpha is 0.06000PI, Fx is -0.00001310.
+when alpha is 0.06000PI, Fy is -0.00004897.
+when alpha is 0.06000PI, Fz is -0.00011176.
+
+when alpha is 0.07000PI, Fx is 0.00003639.
+when alpha is 0.07000PI, Fy is -0.00004582.
+when alpha is 0.07000PI, Fz is -0.00011312.
+
+when alpha is 0.08000PI, Fx is -0.00001444.
+when alpha is 0.08000PI, Fy is -0.00004275.
+when alpha is 0.08000PI, Fz is -0.00011478.
+
+when alpha is 0.09000PI, Fx is -0.00001560.
+when alpha is 0.09000PI, Fy is -0.00003974.
+when alpha is 0.09000PI, Fz is -0.00011677.
+
+when alpha is 0.10000PI, Fx is -0.00002075.
+when alpha is 0.10000PI, Fy is -0.00003678.
+when alpha is 0.10000PI, Fz is -0.00011887.
+
+when alpha is 0.11000PI, Fx is -0.00002249.
+when alpha is 0.11000PI, Fy is -0.00003388.
+when alpha is 0.11000PI, Fz is -0.00012151.
+
+when alpha is 0.12000PI, Fx is -0.00010770.
+when alpha is 0.12000PI, Fy is -0.00003399.
+when alpha is 0.12000PI, Fz is -0.00012370.
+
+when alpha is 0.13000PI, Fx is 0.00079803.
+when alpha is 0.13000PI, Fy is -0.00003087.
+when alpha is 0.13000PI, Fz is -0.00012699.
+
+when alpha is 0.14000PI, Fx is 0.00094704.
+when alpha is 0.14000PI, Fy is -0.00002795.
+when alpha is 0.14000PI, Fz is -0.00013034.
+
+when alpha is 0.15000PI, Fx is 0.00078735.
+when alpha is 0.15000PI, Fy is -0.00002302.
+when alpha is 0.15000PI, Fz is -0.00013447.
+
+when alpha is 0.16000PI, Fx is 0.00085092.
+when alpha is 0.16000PI, Fy is -0.00001930.
+when alpha is 0.16000PI, Fz is -0.00013813.
+
+when alpha is 0.17000PI, Fx is -0.00005812.
+when alpha is 0.17000PI, Fy is -0.00001628.
+when alpha is 0.17000PI, Fz is -0.00006639.
+
+when alpha is 0.18000PI, Fx is -0.00006349.
+when alpha is 0.18000PI, Fy is -0.00000296.
+when alpha is 0.18000PI, Fz is -0.00006942.
+
+when alpha is 0.19000PI, Fx is -0.00084395.
+when alpha is 0.19000PI, Fy is 0.00000107.
+when alpha is 0.19000PI, Fz is -0.00007287.
+
+when alpha is 0.20000PI, Fx is 0.00004663.
+when alpha is 0.20000PI, Fy is 0.00000914.
+when alpha is 0.20000PI, Fz is -0.00007670.
+
+when alpha is 0.21000PI, Fx is -0.00058009.
+when alpha is 0.21000PI, Fy is 0.00002614.
+when alpha is 0.21000PI, Fz is -0.00008095.
+
+when alpha is 0.22000PI, Fx is -0.00053299.
+when alpha is 0.22000PI, Fy is 0.00003022.
+when alpha is 0.22000PI, Fz is -0.00008519.
+
+when alpha is 0.23000PI, Fx is -0.00001946.
+when alpha is 0.23000PI, Fy is 0.00002654.
+when alpha is 0.23000PI, Fz is -0.00009053.
+
+when alpha is 0.24000PI, Fx is 0.00000000.
+when alpha is 0.24000PI, Fy is 0.00003615.
+when alpha is 0.24000PI, Fz is -0.00009364.
+
+when alpha is 0.25000PI, Fx is 0.00000000.
+when alpha is 0.25000PI, Fy is 0.00003756.
+when alpha is 0.25000PI, Fz is -0.00009898.
+
+when alpha is 0.26000PI, Fx is 0.00000000.
+when alpha is 0.26000PI, Fy is 0.00003409.
+when alpha is 0.26000PI, Fz is -0.00010601.
+
+when alpha is 0.27000PI, Fx is 0.00000000.
+when alpha is 0.27000PI, Fy is 0.00001182.
+when alpha is 0.27000PI, Fz is -0.00011103.
+
+when alpha is 0.28000PI, Fx is 0.00000000.
+when alpha is 0.28000PI, Fy is -0.00000577.
+when alpha is 0.28000PI, Fz is -0.00011900.
+
+when alpha is 0.29000PI, Fx is 0.00000000.
+when alpha is 0.29000PI, Fy is 0.00001175.
+when alpha is 0.29000PI, Fz is -0.00012851.
+
+when alpha is 0.30000PI, Fx is 0.00003721.
+when alpha is 0.30000PI, Fy is 0.00003197.
+when alpha is 0.30000PI, Fz is -0.00013890.
+
+when alpha is 0.31000PI, Fx is 0.00004233.
+when alpha is 0.31000PI, Fy is 0.00003840.
+when alpha is 0.31000PI, Fz is -0.00015149.
+
+when alpha is 0.32000PI, Fx is -0.00617661.
+when alpha is 0.32000PI, Fy is 0.00005226.
+when alpha is 0.32000PI, Fz is -0.00016559.
+
+when alpha is 0.33000PI, Fx is -0.00734834.
+when alpha is 0.33000PI, Fy is -0.00503011.
+when alpha is 0.33000PI, Fz is -0.00018217.
+
+when alpha is 0.34000PI, Fx is -0.00224156.
+when alpha is 0.34000PI, Fy is 0.00007181.
+when alpha is 0.34000PI, Fz is -0.00020153.
+
+when alpha is 0.35000PI, Fx is 0.00001629.
+when alpha is 0.35000PI, Fy is 0.00007575.
+when alpha is 0.35000PI, Fz is -0.00001462.
+
+when alpha is 0.36000PI, Fx is 0.00081735.
+when alpha is 0.36000PI, Fy is 0.00008050.
+when alpha is 0.36000PI, Fz is -0.00001724.
+
+when alpha is 0.37000PI, Fx is 0.00083341.
+when alpha is 0.37000PI, Fy is -0.00096309.
+when alpha is 0.37000PI, Fz is -0.00002052.
+
+when alpha is 0.38000PI, Fx is 0.00074701.
+when alpha is 0.38000PI, Fy is -0.00111310.
+when alpha is 0.38000PI, Fz is -0.00002453.
+
+when alpha is 0.39000PI, Fx is 0.00074719.
+when alpha is 0.39000PI, Fy is -0.00129810.
+when alpha is 0.39000PI, Fz is -0.00003042.
+
+when alpha is 0.40000PI, Fx is 0.00073818.
+when alpha is 0.40000PI, Fy is -0.00138646.
+when alpha is 0.40000PI, Fz is -0.00003778.
+
+when alpha is 0.41000PI, Fx is 0.00065295.
+when alpha is 0.41000PI, Fy is 0.00000733.
+when alpha is 0.41000PI, Fz is 0.00000590.
+
+when alpha is 0.42000PI, Fx is -0.00239932.
+when alpha is 0.42000PI, Fy is -0.00002959.
+when alpha is 0.42000PI, Fz is 0.00000608.
+
+when alpha is 0.43000PI, Fx is 0.00070138.
+when alpha is 0.43000PI, Fy is -0.00007594.
+when alpha is 0.43000PI, Fz is 0.00000632.
+
+when alpha is 0.44000PI, Fx is 0.00806231.
+when alpha is 0.44000PI, Fy is -0.00014354.
+when alpha is 0.44000PI, Fz is 0.00000663.
+
+when alpha is 0.45000PI, Fx is 0.00728525.
+when alpha is 0.45000PI, Fy is -0.00018603.
+when alpha is 0.45000PI, Fz is 0.00000701.
+
+when alpha is 0.46000PI, Fx is 0.00043044.
+when alpha is 0.46000PI, Fy is -0.00009919.
+when alpha is 0.46000PI, Fz is 0.00000751.
+
+when alpha is 0.47000PI, Fx is 0.00007925.
+when alpha is 0.47000PI, Fy is -0.00020348.
+when alpha is 0.47000PI, Fz is 0.00000816.
+
+when alpha is 0.48000PI, Fx is 0.00005926.
+when alpha is 0.48000PI, Fy is -0.00003589.
+when alpha is 0.48000PI, Fz is 0.00000902.
+
+when alpha is 0.49000PI, Fx is -0.00010211.
+when alpha is 0.49000PI, Fy is 0.00000142.
+when alpha is 0.49000PI, Fz is 0.00001014.
+
+when alpha is 0.50000PI, Fx is -0.00231241.
+when alpha is 0.50000PI, Fy is 0.00000212.
+when alpha is 0.50000PI, Fz is 0.00001142.
+
+
+we can see that Fx is zero within the error limitation!
